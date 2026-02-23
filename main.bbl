@@ -1,0 +1,74 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{10.1088/1367-2630/ad313e}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5d416d5641116ee79d082de3a777e05a}{%
+           family={Pio\bibnamedelima Barone},
+           familyi={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=f9c02694167a4df2e6917b8da70a1f8f}{%
+           family={Kiss},
+           familyi={K\bibinitperiod},
+           given={Oriel},
+           giveni={O\bibinitperiod}}}%
+        {{hash=f2dfb571aeb064a687368b8a5675ff87}{%
+           family={Grossi},
+           familyi={G\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0bb8ee718da0595bb50492135195ace6}{%
+           family={Vallecorsa},
+           familyi={V\bibinitperiod},
+           given={Sofia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1d4d99e2726d93bde96ad0c723a94d43}{%
+           family={Mandarino},
+           familyi={M\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2c80d6b8fc050ce7d95cfe491b3727c}
+      \strng{fullhash}{ea17be6fbc14bcd5e8fcf07fb00959da}
+      \strng{bibnamehash}{d2c80d6b8fc050ce7d95cfe491b3727c}
+      \strng{authorbibnamehash}{d2c80d6b8fc050ce7d95cfe491b3727c}
+      \strng{authornamehash}{d2c80d6b8fc050ce7d95cfe491b3727c}
+      \strng{authorfullhash}{ea17be6fbc14bcd5e8fcf07fb00959da}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{State preparation plays a pivotal role in numerous quantum algorithms, including quantum phase estimation. This paper extends and benchmarks counterdiabatic driving protocols across three one-dimensional spin systems characterized by phase transitions: the axial next-nearest neighbor Ising, XXZ, and Haldane-Shastry models. We perform a shallow quantum optimal control over the counterdiabatic protocols by optimizing an energy cost function. Moreover, we provide a code package for computing symbolically various adiabatic gauge potentials. This protocol consistently surpasses standard annealing schedules, often achieving performance improvements of several orders of magnitude. The the axial next-nearest neighbor Ising model stands out as a notable example, where fidelities exceeding 0.5 are attainable in most cases. Furthermore, the optimized paths exhibit promising generalization capabilities to higher-dimensional systems, allowing for the extension of parameters from smaller models. Nevertheless, our investigations reveal limitations in the case of the XXZ and Haldane-Shastry models, particularly when transitioning away from the ferromagnetic phase. This suggests that finding optimal diabatic gauge potentials for specific systems remains an important research direction.}
+      \field{journaltitle}{New Journal of Physics}
+      \field{title}{Counterdiabatic optimized driving in quantum phase sensitive models}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb http://iopscience.iop.org/article/10.1088/1367-2630/ad313e
+      \endverb
+      \verb{url}
+      \verb http://iopscience.iop.org/article/10.1088/1367-2630/ad313e
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
